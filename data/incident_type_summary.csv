@@ -1,0 +1,4 @@
+incident_type,affected_orders,primary_hub,key_finding
+Missing Delivered Event,150,IL01,"Upstream delivery events exist, but final Delivered event is missing."
+Duplicate Delivered Event,73,IL01,Two identical Delivered events exist with a 0-minute timestamp gap.
+Invalid Event Timestamp,50,Multiple Hubs,Event timestamp occurs before the order creation timestamp.
