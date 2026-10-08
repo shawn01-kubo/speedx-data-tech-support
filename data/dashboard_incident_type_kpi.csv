@@ -1,0 +1,4 @@
+incident_type,affected_orders
+Missing Delivered Event,150
+Duplicate Delivered Event,73
+Invalid Event Timestamp,50
